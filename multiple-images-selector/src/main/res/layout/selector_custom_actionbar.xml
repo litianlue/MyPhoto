@@ -16,13 +16,12 @@
         android:paddingRight="16dp"
         android:scaleType="fitCenter"
         android:src="@drawable/ic_arrow_back_white_24dp"/>
-
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerVertical="true"
         android:layout_toRightOf="@+id/selector_button_back"
-        android:text="@string/selector_caption"
+        android:text="选择图片1"
         android:textColor="@android:color/white"
         android:textSize="20sp"/>
 
