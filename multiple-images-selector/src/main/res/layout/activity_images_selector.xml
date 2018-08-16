@@ -83,7 +83,8 @@
             <RelativeLayout
                 android:id="@+id/selector_footer"
                 android:layout_width="match_parent"
-                android:layout_height="@dimen/buttom_actionbar_height"
+                android:layout_height="80dp"
+                android:minHeight="80dp"
                 android:layout_alignParentBottom="true"
                 android:background="#cc000000"
                 android:clickable="true">
@@ -91,7 +92,8 @@
                 <Button
                     android:id="@+id/selector_image_folder_button"
                     android:layout_width="wrap_content"
-                    android:layout_height="match_parent"
+                    android:layout_height="80dp"
+                    android:minHeight="80dp"
                     android:layout_alignParentLeft="true"
                     android:background="@null"
                     android:drawablePadding="5dp"
