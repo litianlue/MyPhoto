@@ -3,6 +3,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="@dimen/buttom_actionbar_height"
                 android:background="#21282C"
+                android:minWidth="750dp"
+                android:minHeight="38dp"
                 android:orientation="vertical">
 
     <ImageView
